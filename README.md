@@ -1,8 +1,8 @@
 ### Hey there, I'm Dyanna! 🙌
 
-- 🚚 I'm currently working on Fetch and UpUp
-- 📈 I'm currently learning CSS Grid
-- 💬 You can reach me at dyanna.a.turner@gmail.com or on Twitter @dyannathehunter
+- 🚚 I'm currently working at Mailchimp
+- 📈 I'm currently learning accessibility
+- 💬 You can reach me at dyanna.a.turner@gmail.com
 
 
 <!--
