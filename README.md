@@ -1,6 +1,6 @@
 ### Hey there, I'm Dyanna! 🙌
 
-- 🚚 I'm currently working at Mailchimp
+- 🚚 I'm currently working on starting a business
 - 📈 I'm currently learning accessibility
 - 💬 You can reach me at dyanna.a.turner@gmail.com
 
