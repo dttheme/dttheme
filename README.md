@@ -1,7 +1,6 @@
 ### Hey there, I'm Dyanna! 🙌
 
 - 🚚 I just opened shop on my print store! Check out my site [Peach Butter Prints](https://peachbutterprints.com).
-- 📈 I'm currently learning accessibility.
 - 💻 If you have an open remote engineering opportunity, I would love to hear about it!
 - 💬 You can reach me at dyanna.a.turner@gmail.com.
 
