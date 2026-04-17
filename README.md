@@ -1,9 +1,8 @@
-### Hey there, I'm Dyanna! 🙌
+### Hey there, I'm Dyanna (they/she)
 
-- 🚚 I just opened shop on my print store! Check out my site [Peach Butter Prints](https://peachbutterprints.com).
-- 💻 If you have an open remote engineering opportunity, I would love to hear about it!
-- 💬 You can reach me at dyanna.a.turner@gmail.com.
-
+- Working as a Software Engineer at CNN
+- Designing a new personal site
+- Mentoring engineers of all levels
 
 <!--
 **dttheme/dttheme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
